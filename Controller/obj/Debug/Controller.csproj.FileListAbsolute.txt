@@ -1,0 +1,91 @@
+D:\Proiect_IP_Ultima_varianta\mai\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\mai\Controller\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\mai\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\mai\Controller\obj\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\mai\Controller\obj\Debug\Controller.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\Controller.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\Controller.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\obj\Debug\Controller.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Controller\obj\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\obj\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Controller\obj\Debug\Controller.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\Controller.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\Controller.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\Model.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\Model.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\bin\Debug\RestaurantDAO.dll.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\obj\Debug\Controller.csproj.CopyComplete
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\obj\Debug\Controller.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Controller\obj\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\obj\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\Controller\obj\Debug\Controller.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\Controller.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\Controller.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\obj\Debug\Controller.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\Controller\obj\Debug\Controller.pdb
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\Controller.dll
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\Controller.pdb
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\Model.dll
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\RestaurantDAO.dll
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\Model.pdb
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\RestaurantDAO.pdb
+E:\An 4\EP\Proiect EP\FINAL\Controller\bin\Debug\RestaurantDAO.dll.config
+E:\An 4\EP\Proiect EP\FINAL\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+E:\An 4\EP\Proiect EP\FINAL\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+E:\An 4\EP\Proiect EP\FINAL\Controller\obj\Debug\Controller.csproj.CopyComplete
+E:\An 4\EP\Proiect EP\FINAL\Controller\obj\Debug\Controller.dll
+E:\An 4\EP\Proiect EP\FINAL\Controller\obj\Debug\Controller.pdb

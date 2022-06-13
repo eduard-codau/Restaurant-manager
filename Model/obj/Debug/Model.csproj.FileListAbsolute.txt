@@ -1,0 +1,45 @@
+C:\Users\Edi\source\repos\Proiect_IP\Model\bin\Debug\Model.dll
+C:\Users\Edi\source\repos\Proiect_IP\Model\bin\Debug\Model.pdb
+C:\Users\Edi\source\repos\Proiect_IP\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\Proiect_IP\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\Proiect_IP\Model\obj\Debug\Model.dll
+C:\Users\Edi\source\repos\Proiect_IP\Model\obj\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\Model\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\Model\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\Model\obj\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\Model\obj\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\Model\obj\Debug\Model.csprojAssemblyReference.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\Model\bin\Debug\Model.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\Model\bin\Debug\Model.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\Model\obj\Debug\Model.csprojAssemblyReference.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\Model\obj\Debug\Model.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\Model\obj\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\mai\Model\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\mai\Model\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\mai\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\Model\obj\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\mai\Model\obj\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Model\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Model\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Model\obj\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\Model\obj\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Model\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Model\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Model\obj\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\Model\obj\Debug\Model.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Model\bin\Debug\Model.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Model\bin\Debug\Model.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Model\obj\Debug\Model.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\Model\obj\Debug\Model.pdb
+E:\An 4\EP\Proiect EP\FINAL\Model\bin\Debug\Model.dll
+E:\An 4\EP\Proiect EP\FINAL\Model\bin\Debug\Model.pdb
+E:\An 4\EP\Proiect EP\FINAL\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\An 4\EP\Proiect EP\FINAL\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\An 4\EP\Proiect EP\FINAL\Model\obj\Debug\Model.dll
+E:\An 4\EP\Proiect EP\FINAL\Model\obj\Debug\Model.pdb

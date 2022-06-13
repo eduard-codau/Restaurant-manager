@@ -1,0 +1,107 @@
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\bin\Debug\Model.dll
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\bin\Debug\Model.pdb
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+C:\Users\Edi\source\repos\Proiect_IP\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\bin\Debug\Oracle.DataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\bin\Debug\Model.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\bin\Debug\Oracle.DataAccess.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\bin\Debug\Model.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\bin\Debug\Model.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\bin\Debug\Model.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.pdb
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\bin\Debug\RestaurantDAO.dll.config
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\bin\Debug\RestaurantDAO.dll
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\bin\Debug\RestaurantDAO.pdb
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\bin\Debug\Model.dll
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\bin\Debug\Model.pdb
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.AssemblyReference.cache
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.csproj.CopyComplete
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.dll
+E:\An 4\EP\Proiect EP\FINAL\RestaurantDAO\obj\Debug\RestaurantDAO.pdb

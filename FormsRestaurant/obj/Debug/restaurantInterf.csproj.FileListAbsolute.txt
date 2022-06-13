@@ -1,0 +1,208 @@
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\bin\Debug\restaurantInterf.exe
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\bin\Debug\restaurantInterf.pdb
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.Form1.resources
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.exe
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.pdb
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.LogOut.resources
+E:\An3\Sem2\IP\Proiect\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\bin\Debug\restaurantInterf.exe
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\bin\Debug\restaurantInterf.pdb
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.Form1.resources
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.LogOut.resources
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.exe
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.pdb
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\bin\Debug\Dapper.dll
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\bin\Debug\Oracle.DataAccess.dll
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\bin\Debug\Dapper.xml
+D:\Proiect_IP\proiect_IP\restaurantInterf\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.Form1.resources
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.LogOut.resources
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.exe
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.pdb
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\bin\Debug\restaurantInterf.exe
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\bin\Debug\restaurantInterf.pdb
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\bin\Debug\Dapper.dll
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\bin\Debug\Dapper.xml
+C:\Users\Edi\source\repos\Proiect_IP\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\bin\Debug\restaurantInterf.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\bin\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\bin\Debug\Dapper.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\bin\Debug\Oracle.DataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\bin\Debug\Dapper.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.Form1.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.LogOut.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.AdminPage.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\bin\Debug\restaurantInterf.exe
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\bin\Debug\restaurantInterf.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\bin\Debug\Dapper.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\bin\Debug\Oracle.DataAccess.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\bin\Debug\Dapper.xml
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.AddItemForm.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.AdminPage.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.Form1.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.Form1Cris.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.LogOut.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.OrderForm.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.AddItem.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.CategoryOperations.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.Order.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.RemoveItem.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UpdateItem.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UsersOperations.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UserWelcome.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserDashboard.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.exe
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.MeniuView.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\bin\Debug\restaurantInterf.exe
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\bin\Debug\restaurantInterf.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\bin\Debug\Dapper.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\bin\Debug\Oracle.DataAccess.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\bin\Debug\Dapper.xml
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.AddItemForm.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.Form1.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.OrderForm.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.MeniuView.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.AddItem.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.CategoryOperations.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.RemoveItem.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UpdateItem.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UsersOperations.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UserWelcome.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.UserDashboard.resources
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.exe
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect_adaugat_alex\mai\restaurantInterf\obj\Debug\restaurantInterf.pdb
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.AddItemForm.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.FormLogin.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.FormPrincipal.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.OrderForm.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.MeniuView.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.AddItem.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.CategoryOperations.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.RemoveItem.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UpdateItem.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UsersOperations.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UserWelcome.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.UserDashboard.resources
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\restaurantInterf.pdb
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\mai\restaurantInterf\obj\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.AddItemForm.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.FormLogin.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.FormPrincipal.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.OrderForm.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.MeniuView.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.AddItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.CategoryOperations.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.RemoveItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UpdateItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UsersOperations.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UserWelcome.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.UserDashboard.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\restaurantInterf.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\Controller.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\Controller.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.FormAddItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.FormPrincipal.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.FormOrder.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.Properties.Resources.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.MeniuView.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.tables.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.AddItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.CategoryOperations.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.RemoveItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UpdateItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UsersOperations.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.UserControls.UserWelcome.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.csproj.GenerateResource.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\restaurantInterf.exe.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\restaurantInterf.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.FormAdminView.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.FormLoginView.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\restaurantInterf\obj\Debug\restaurantInterf.FormUserView.resources

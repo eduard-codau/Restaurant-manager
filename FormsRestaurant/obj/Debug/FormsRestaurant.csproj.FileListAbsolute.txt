@@ -1,0 +1,207 @@
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\FormsRestaurant.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.FormAddItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.FormAdminView.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.FormLoginView.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.FormPrincipal.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.FormOrder.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.FormUserView.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.Properties.Resources.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardTables.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardAddItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardCategoryOperations.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardRemoveItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUpdateItem.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUsersOperations.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUserWelcome.resources
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.GenerateResource.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\restaurantInterf.exe.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\restaurantInterf.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\FormsRestaurant\obj\Debug\restaurantInterf.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\FormsRestaurant.csprojAssemblyReference.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.FormAddItem.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.FormAdminView.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.FormLoginView.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.FormPrincipal.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.FormOrder.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.FormUserView.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.Properties.Resources.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardTables.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardAddItem.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardCategoryOperations.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardRemoveItem.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUpdateItem.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUsersOperations.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUserWelcome.resources
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.GenerateResource.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\restaurantInterf.exe.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\restaurantInterf.exe
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\restaurantInterf.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Controller.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\DatabaseConnectedTest.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Model.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\TestApp.exe
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\DatabaseConnectedTest.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\RestaurantDAO.dll.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\TestApp.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\TestApp.exe.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Controller.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Model.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CopyComplete
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.exe
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\obj\Debug\restaurantInterf.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\BouncyCastle.Crypto.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\itextsharp.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\FormsRestaurant\bin\Debug\itextsharp.xml
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\restaurantInterf.exe.config
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\restaurantInterf.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Controller.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\DatabaseConnectedTest.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\itextsharp.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\DatabaseConnectedTest.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\TestApp.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\TestApp.exe.config
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Controller.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\itextsharp.xml
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\FormsRestaurant.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.FormAddItem.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.FormAdminView.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.FormLoginView.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.FormPrincipal.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.FormOrder.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.FormUserView.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.Properties.Resources.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardTables.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardAddItem.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardCategoryOperations.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardRemoveItem.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUpdateItem.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUsersOperations.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUserWelcome.resources
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.GenerateResource.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.exe
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\FormsRestaurant\obj\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\restaurantInterf.exe.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\restaurantInterf.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\restaurantInterf.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Controller.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\DatabaseConnectedTest.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\itextsharp.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\TestApp.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\DatabaseConnectedTest.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\TestApp.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\TestApp.exe.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Controller.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\itextsharp.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormAddItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormAdminView.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormLoginView.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormPrincipal.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormOrder.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormUserView.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.Properties.Resources.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardTables.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardAddItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardCategoryOperations.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardRemoveItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUpdateItem.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUsersOperations.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUserWelcome.resources
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\restaurantInterf.exe.config
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\restaurantInterf.exe
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\restaurantInterf.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\BouncyCastle.Crypto.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Controller.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\DatabaseConnectedTest.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\itextsharp.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Model.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\RestaurantDAO.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\TestApp.exe
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\DatabaseConnectedTest.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\RestaurantDAO.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\RestaurantDAO.dll.config
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\TestApp.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\TestApp.exe.config
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Controller.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\itextsharp.xml
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Model.pdb
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.AssemblyReference.cache
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormAddItem.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormAdminView.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormLoginView.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormPrincipal.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormOrder.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.FormUserView.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.Properties.Resources.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardTables.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardAddItem.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardCategoryOperations.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardRemoveItem.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUpdateItem.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUsersOperations.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.DashboardControls.DashboardUserWelcome.resources
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.GenerateResource.cache
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CoreCompileInputs.cache
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\FormsRestaurant.csproj.CopyComplete
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.exe
+E:\An 4\EP\Proiect EP\FINAL\FormsRestaurant\obj\Debug\restaurantInterf.pdb

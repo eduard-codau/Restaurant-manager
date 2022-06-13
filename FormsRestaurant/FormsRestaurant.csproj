@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3FD0EFB2-CB6C-43DB-9432-5AD88E7ACACD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>restaurantInterf</RootNamespace>
+    <AssemblyName>restaurantInterf</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Controller">
+      <HintPath>..\Controller\bin\Debug\Controller.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Model">
+      <HintPath>..\Model\bin\Debug\Model.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddItem.Designer.cs">
+      <DependentUpon>FormAddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminView.designer.cs">
+      <DependentUpon>FormAdminView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoginView.designer.cs">
+      <DependentUpon>FormLoginView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrder.Designer.cs">
+      <DependentUpon>FormOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserView.designer.cs">
+      <DependentUpon>FormUserView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DashboardControls\DashboardTables.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardTables.Designer.cs">
+      <DependentUpon>DashboardTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardAddItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardAddItem.Designer.cs">
+      <DependentUpon>DashboardAddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardCategoryOperations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardCategoryOperations.Designer.cs">
+      <DependentUpon>DashboardCategoryOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardRemoveItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardRemoveItem.Designer.cs">
+      <DependentUpon>DashboardRemoveItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardUpdateItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardUpdateItem.Designer.cs">
+      <DependentUpon>DashboardUpdateItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardUsersOperations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardUsersOperations.Designer.cs">
+      <DependentUpon>DashboardUsersOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardUserWelcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControls\DashboardUserWelcome.Designer.cs">
+      <DependentUpon>DashboardUserWelcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAddItem.resx">
+      <DependentUpon>FormAddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminView.resx">
+      <DependentUpon>FormAdminView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoginView.resx">
+      <DependentUpon>FormLoginView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrder.resx">
+      <DependentUpon>FormOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserView.resx">
+      <DependentUpon>FormUserView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="DashboardControls\DashboardTables.resx">
+      <DependentUpon>DashboardTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControls\DashboardAddItem.resx">
+      <DependentUpon>DashboardAddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControls\DashboardCategoryOperations.resx">
+      <DependentUpon>DashboardCategoryOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControls\DashboardRemoveItem.resx">
+      <DependentUpon>DashboardRemoveItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControls\DashboardUpdateItem.resx">
+      <DependentUpon>DashboardUpdateItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControls\DashboardUsersOperations.resx">
+      <DependentUpon>DashboardUsersOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControls\DashboardUserWelcome.resx">
+      <DependentUpon>DashboardUserWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DatabaseConnectedTest\DatabaseConnectedTest.csproj">
+      <Project>{4a3d880a-c5a9-4428-97ca-34f6345cd22b}</Project>
+      <Name>DatabaseConnectedTest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RestaurantDAO\RestaurantDAO.csproj">
+      <Project>{fe8c0112-e3ce-41eb-ae16-f4ef419f6c9a}</Project>
+      <Name>RestaurantDAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestApp\TestApp.csproj">
+      <Project>{a14dbd1e-7d4d-4d85-bd3a-318a2c98262d}</Project>
+      <Name>TestApp</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

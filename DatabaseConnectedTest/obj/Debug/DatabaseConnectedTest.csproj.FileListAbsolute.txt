@@ -1,0 +1,120 @@
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\ProiectIP_UserEdi\mai\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.dll
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csprojAssemblyReference.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Model.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Oracle.ManagedDataAccess.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Model.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CopyComplete
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.dll
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.dll
+D:\Proiect_IP_Ultima_varianta\ProiectIP_Functional_alex\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CopyComplete
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.pdb
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\DatabaseConnectedTest.pdb
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Model.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Model.pdb
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\RestaurantDAO.pdb
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\RestaurantDAO.dll.config
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.AssemblyReference.cache
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CoreCompileInputs.cache
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.csproj.CopyComplete
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.dll
+E:\An 4\EP\Proiect EP\FINAL\DatabaseConnectedTest\obj\Debug\DatabaseConnectedTest.pdb

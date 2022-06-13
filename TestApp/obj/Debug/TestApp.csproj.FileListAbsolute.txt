@@ -1,0 +1,66 @@
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\TestApp.exe
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\Model.dll
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\RestaurantDAO.dll
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\Model.pdb
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\bin\Debug\RestaurantDAO.pdb
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\obj\Debug\TestApp.exe
+C:\Users\Edi\source\repos\Proiect_IP\TestApp\obj\Debug\TestApp.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\obj\Debug\TestApp.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\obj\Debug\TestApp.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\TestApp.exe
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\TestApp.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\Model.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\RestaurantDAO.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\Oracle.DataAccess.dll
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\Model.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\bin\Debug\RestaurantDAO.pdb
+C:\Users\crist\Desktop\An III\Semestrul2\IP\Proiect\mai\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\TestApp.exe.config
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\TestApp.exe
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\TestApp.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\Model.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\RestaurantDAO.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\Oracle.DataAccess.dll
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\Model.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\bin\Debug\RestaurantDAO.pdb
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\obj\Debug\TestApp.exe
+U:\an III\sem2\IP\PROIECT_IP_BUN\Proiect\mai\TestApp\obj\Debug\TestApp.pdb
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\bin\Debug\TestApp.exe.config
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\bin\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\bin\Debug\TestApp.pdb
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\obj\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\obj\Debug\TestApp.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\bin\Debug\TestApp.exe.config
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\bin\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\bin\Debug\TestApp.pdb
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\obj\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\VariantaCrectata\TestApp\obj\Debug\TestApp.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\bin\Debug\TestApp.exe.config
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\bin\Debug\TestApp.exe
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\bin\Debug\TestApp.pdb
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\obj\Debug\TestApp.exe
+U:\an III\sem2\IP\Proiect_IP\ProiectIP_Functional\TestApp\obj\Debug\TestApp.pdb
+E:\An 4\EP\Proiect EP\FINAL\TestApp\bin\Debug\TestApp.exe.config
+E:\An 4\EP\Proiect EP\FINAL\TestApp\bin\Debug\TestApp.exe
+E:\An 4\EP\Proiect EP\FINAL\TestApp\bin\Debug\TestApp.pdb
+E:\An 4\EP\Proiect EP\FINAL\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+E:\An 4\EP\Proiect EP\FINAL\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+E:\An 4\EP\Proiect EP\FINAL\TestApp\obj\Debug\TestApp.exe
+E:\An 4\EP\Proiect EP\FINAL\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,11 @@
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\x64\Debug\RestaurantDAO.dll.config
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\x64\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\x64\Debug\RestaurantDAO.pdb
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\x64\Debug\Model.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\bin\x64\Debug\Model.pdb
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\x64\Debug\RestaurantDAO.csprojAssemblyReference.cache
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\x64\Debug\RestaurantDAO.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\x64\Debug\RestaurantDAO.csproj.CopyComplete
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\x64\Debug\RestaurantDAO.dll
+D:\Proiect_IP_Ultima_varianta\mai\RestaurantDAO\obj\x64\Debug\RestaurantDAO.pdb

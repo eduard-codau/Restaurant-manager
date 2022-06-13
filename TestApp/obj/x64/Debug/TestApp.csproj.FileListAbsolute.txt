@@ -1,0 +1,6 @@
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\bin\x64\Debug\TestApp.exe.config
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\bin\x64\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\bin\x64\Debug\TestApp.pdb
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\obj\x64\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\obj\x64\Debug\TestApp.exe
+D:\Proiect_IP_Ultima_varianta\mai\TestApp\obj\x64\Debug\TestApp.pdb
